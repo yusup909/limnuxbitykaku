@@ -2,7 +2,7 @@ let handler = async m => m.reply(`
 *LIST GC BOT*
 
 *GROUP 1*
-isi
+ISI INI PAKE LINK GC LU
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['gcbot']
 handler.tags = ['info']
