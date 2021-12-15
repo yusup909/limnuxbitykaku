@@ -1,6 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItzLighting9332/nayla)
 
-## EDIT SEMUA DI CONFIG.JS YA
+## EDIT SEMUA DI CONFIG.JS YA DAN KLO AD YG ERROR PERBAIKI SENDIRI MALES W 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
 * Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
