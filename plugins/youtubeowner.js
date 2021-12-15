@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `Subscribe Channel Ku Ya Kak nih link nya
-ISI
+ISI INI PAKE LINK YT LU
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*YANG SUBSCRIBE ANAK TUHAN*', 'status@broadcast') 
