@@ -1,7 +1,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItzLighting9332/nayla)
 
 ## EDIT SEMUA DI CONFIG.JS YA DAN KLO AD YG ERROR PERBAIKI SENDIRI MALES W 
-## UNTUK PENGGUNA WINDOWS/VPS/RDP
+## UNTUK PENGGUNA WINDOWS/VPS/RDP/LINUX
 
 * Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
 * Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
