@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `Subscribe Channel Ku Ya Kak nih link nya
-yt
+ISI
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*YANG SUBSCRIBE ANAK TUHAN*', 'status@broadcast') 
@@ -21,5 +21,3 @@ handler.fail = null
 handler.exp = 25
 
 module.exports = handler
-
-let yt = global.channelYT
