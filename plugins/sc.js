@@ -1,10 +1,10 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
 *Hayo ngapain mau pasang ya?*
-*Jangan la bwang hargai pembuat nya*
-*dengan cara beli atau donasi klik aja button di bawah ini*
+*Nih w kasi, kasian amat lu tekan y itu link*
+*https://github.com/ItzLighting9332/nayla*
 `.trim()
-conn.sendButton(m.chat, info, wm, 'Beli', `.beli`, m)
+
 
 
 }
@@ -25,4 +25,4 @@ handler.limit = false
 
 module.exports = handler
  
-let wm = global.botwm
+
