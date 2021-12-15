@@ -92,3 +92,6 @@ conn.logger.level = 'trace'
 ```js
 conn.logger.level = 'debug'
 ```
+
+## `DONATE`
+['SAWERIA'](https://saweria.co/Scaff)
