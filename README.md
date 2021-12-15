@@ -94,4 +94,4 @@ conn.logger.level = 'debug'
 ```
 
 ## `DONATE`
-['SAWERIA'](https://saweria.co/Scaff)
+[`SAWERIA`](https://saweria.co/Scaff)
