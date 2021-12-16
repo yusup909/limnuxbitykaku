@@ -5,8 +5,7 @@ let info = `
 *https://github.com/ItzLighting9332/nayla*
 `.trim()
 
-
-
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*NIH KASIAN LU*', 'status@broadcast')
 }
 handler.help = ['sc']
 handler.tags = ['tutor']
