@@ -17,16 +17,16 @@
   "keywords": [
     "botwea"
   ],
-  "homepage": "https://github.com/ItzLighting9332/NayLaBotz",
+  "homepage": "https://github.com/ItzLighting9332/nayla",
   "author": {
     "name": "ItzLighting9332"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItzLighting9332/NayLaBotz.git"
+    "url": "git+https://github.com/ItzLighting9332/nayla.git"
   },
   "bugs": {
-    "url": "https://github.com/ItzLighting9332/NayLaBotz/issues"
+    "url": "https://github.com/ItzLighting9332/nayla/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
