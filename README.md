@@ -28,6 +28,9 @@ node .
 ---------
 
 ## UNTUK PENGGUNA TERMUX
+
+* untuk pengguna termux hapus semua file yang menggunakan canvas
+
 ```bash
 git clone https://github.com/ItzLighting9332/nayla
 cd nayla
