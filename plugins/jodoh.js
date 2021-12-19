@@ -23,7 +23,7 @@ ${positif}
 *Negatif:*
 ${negatif}
 
-*© AriaBotz*
+*Zevano*
 `.trim())
     }
     else throw json
