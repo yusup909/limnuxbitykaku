@@ -32,7 +32,7 @@
 
 > NayLa-B0TZ adalah bot yang saya buat sendiri mengambil dari youtube lalu saya perbaiki dan tambah kan fiture nya
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi hehe
-
+> untuk nama session ny adalah session.data.json
 
 ---------
 
